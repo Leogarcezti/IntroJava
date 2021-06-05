@@ -3,7 +3,6 @@ package intro;
 
 // 2 - Referência as bibliotecas
 
-import com.sun.xml.internal.bind.v2.TODO;
 
 // 3 - Classe (local de escrita do código)
 public class Medidas {
@@ -11,6 +10,7 @@ public class Medidas {
 
         // 3.2 - Métodos e Funções
     public static void main(String[] args){
+        System.out.println("Bom dia!!!");
         System.out.println("Cálculo de Areas");
         //TODO chamar os calculos no método main
 
